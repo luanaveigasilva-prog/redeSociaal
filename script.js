@@ -20,4 +20,9 @@ if(textNode){
 
 
 
-//
+//coração 
+function applyLikedStyle (){
+    like.style.fill =
+    Like.style,stroke = 
+    Like.style.color =
+}
